@@ -1,4 +1,6 @@
-# Weather-Data-Analysis1. Introduction
+# Weather-Data-Analysis
+
+1. Introduction
 
 Weather data analysis plays an important role in understanding climate patterns and identifying temperature trends over time. By analyzing historical weather data, analysts can detect seasonal variations, extreme weather events, and long-term temperature trends.
 
